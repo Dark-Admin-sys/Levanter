@@ -155,4 +155,4 @@ if (!existsSync('levanter')) {
   checkDependencies()
 }
 
-startPm2()
+startNode()
